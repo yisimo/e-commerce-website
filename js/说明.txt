@@ -1,0 +1,6 @@
+<!--[if IE 6]>  
+    <script type="text/javascript" src="js/dd_png.js"></script>  
+    <script type="text/javascript">  
+    DD_belatedPNG.fix('.tel,.head_content');  
+    </script>  
+<![endif]-->
